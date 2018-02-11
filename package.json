@@ -1,0 +1,7 @@
+{
+  "name": "Discord Game OST Bot",
+  "version": "1.0",
+  "main": "runbot.bat",
+  "scripts": {
+    "start": "node runbot.bat"
+  },
